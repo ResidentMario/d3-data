@@ -15,7 +15,7 @@ Building Maintenance,Door or Window,37656
 Building Maintenance,Electrical,31486
 Building Maintenance,Elevator,13532
 Building Maintenance,Flooding or Stairs,23961
-Building Maintenance,General Construction or Plumbing,30369
+Building Maintenance,Construction or Plumbing,34539
 Building Maintenance,Illegal Conversion,27587
 Building Maintenance,Lead,11444
 Building Maintenance,Paint or Plaster,60463
@@ -49,7 +49,7 @@ Fire Safety,Fire Alarm,547
 Fire Safety,Fire Safety Director On-Site Exam Scheduling,4964
 Fire Safety,Food Preparation Fire Safety,59
 Fire Safety,Inspection,849
-General,Alzheimer's Care,229
+General,Alzheimer Care,229
 General,"Beach, Pool, or Sauna Complaint",170
 General,Complaint,1473
 General,Compliment,92
